@@ -1,0 +1,5 @@
+{
+  "name": "localtunnel server",
+  "description": "expose localhost to the world",
+  "repository": "https://github.com/localtunnel/server"
+}
